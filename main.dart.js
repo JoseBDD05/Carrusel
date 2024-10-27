@@ -30756,7 +30756,7 @@ this.b.ec()},
 $S:10}
 A.AV.prototype={
 T(a){var s=null,r=A.a7g(s,s,B.dP,s),q=t.s
-return new A.rl(new A.A4(A.b(["assets/playa.jpg","assets/Chichen.jpg","assets/Zocalo.jpg","assets/Turismo.jpg",".assets/Oaxaca.jpeg"],q),A.b(["Descubre las hermosas playas de M\xe9xico.","Maravillas arqueol\xf3gicas en Chichen Itz\xe1.","Vive la cultura en el Z\xf3calo de la Ciudad de M\xe9xico.","Canc\xfan: un para\xedso en la costa del Caribe.","Oaxaca: un fest\xedn para los sentidos con su gastronom\xeda."],q),s),"Turismo en M\xe9xico",r,s)}}
+return new A.rl(new A.A4(A.b(["assets/playa.jpg","assets/Chichen.jpg","assets/Zocalo.jpg","assets/Turismo.jpg","assets/Oaxaca.jpeg"],q),A.b(["Descubre las hermosas playas de M\xe9xico.","Maravillas arqueol\xf3gicas en Chichen Itz\xe1.","Vive la cultura en el Z\xf3calo de la Ciudad de M\xe9xico.","Canc\xfan: un para\xedso en la costa del Caribe.","Oaxaca: un fest\xedn para los sentidos con su gastronom\xeda."],q),s),"Turismo en M\xe9xico",r,s)}}
 A.A4.prototype={
 T(a){var s=null,r=A.pH(s,s,s,new A.es(s,s,s,s,s,new A.n_(B.uQ,B.uO,B.hw,A.b([B.dP,B.Ci],t.bk),s,s),B.aS),s,s,s,s),q=A.a7b("Turismo en M\xe9xico",A.jr(s,s,s,s,s,s,s,s,s,s,s,24,s,s,B.dx,s,s,!0,s,s,s,s,s,s,s,s),s)
 return new A.tr(new A.pe(q,r,!0,new A.Hf(s,s,1/0,56),s),A.ahO(A.b([new A.zD(1,B.iV,new A.pv(new A.PP(this),5,s),s),new A.j4(B.yc,A.a7b("Explora las maravillas de M\xe9xico: su historia, cultura y belleza natural.",A.jr(s,s,s,s,s,s,s,s,s,s,s,18,s,s,B.iX,s,s,!0,s,s,s,s,s,s,s,s),B.d3),s)],t.c),B.cM),s)}}
